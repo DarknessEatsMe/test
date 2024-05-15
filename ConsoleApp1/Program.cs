@@ -7,6 +7,8 @@
 			Console.WriteLine("Тут калькулятор тип");
 
 			Console.WriteLine("Add f/f1");
+
+			Console.WriteLine("Добавили ф/ф2");
 		}
 	}
 }
