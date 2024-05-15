@@ -5,6 +5,8 @@
 		static void Main(string[] args)
 		{
 			Console.WriteLine("Тут калькулятор тип");
+
+			Console.WriteLine("Добавили ф/ф2");
 		}
 	}
 }
